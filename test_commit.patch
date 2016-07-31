@@ -1,0 +1,28 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(revision )
++++ .idea/vcs.xml	(revision )
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/Python1/Pytest.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Python1/Pytest.py	(date 1469990074000)
++++ src/Python1/Pytest.py	(revision )
+@@ -1,3 +1,3 @@
+ 
+-# fizzbuzz in python
++# fizzbuzz but in python
+ for x in range(101):print ("fizz"[x%3*5:] + "buzz"[x%5*5:] or x)
+\ No newline at end of file
